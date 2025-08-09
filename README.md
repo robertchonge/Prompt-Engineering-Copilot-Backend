@@ -1,6 +1,6 @@
 🚀 Prompt Engineering Copilot
 
-An AI-powered tool that analyzes and optimizes raw prompts for GPT, Claude, or LLaMA models. Supports prompt suggestions, token estimates, and optimization tips.
+This an AI-powered tool that analyzes and optimizes raw prompts for GPT model.Supports prompt suggestions, token estimates and optimization tips.
 
 
 ---
@@ -11,7 +11,7 @@ Layer	Technologies
 
 Frontend	React.js (Next.js), Tailwind CSS, Axios
 Backend API	FastAPI, Pydantic
-LLM API	GPT-4 API (optional future upgrade)
+LLM API	GPT-4 API ( future upgrade)
 Containerization	Docker, Docker Compose
 
 
@@ -32,7 +32,7 @@ prompt-engineering-copilot/
 │   ├── tailwind.config.js
 │   ├── Dockerfile
 │   └── README.md (this file)
-├── docker-compose.yml (optional)
+├── docker-compose.yml 
 └── README.md
 
 
